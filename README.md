@@ -6,6 +6,15 @@ A CD4026 / NE555 based Reaction Time Game with Latching Input Switches
 
 Designed by Mike Kushnerik (MKE) in KiCad V5
 
+
+# Enclosure
+
+To make things look nicer, I designed a simple 3D printable enclosure to mount the PCB and a 9V battery. 
+
+See the Enclosure folder for design files and STL!
+
+![Enclosure](Images/1b_enclosure.PNG)
+
 # License
 
 MKE supports the open source hardware community by sharing hardware design files freely on GitHub!
