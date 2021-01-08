@@ -9,8 +9,8 @@ Date "2020-12-15"
 Rev "1A"
 Comp "MKEngineering"
 Comment1 ""
-Comment2 "http://creativecommons.org/licenses/by-sa/4.0/"
-Comment3 "Licensed under Creative Commons Attribution-ShareAlike CC BY-SA 4.0"
+Comment2 "http://creativecommons.org/licenses/by-sa/3.0/"
+Comment3 "Licensed under Creative Commons Attribution-ShareAlike CC BY-SA 3.0"
 Comment4 "Author: Mike Kushnerik"
 $EndDescr
 NoConn ~ 8875 3825
